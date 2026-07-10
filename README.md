@@ -1,6 +1,6 @@
-# Week-1 Project Template
+# NeuroHackademy 2026 Week-1 Projects
 
-This repository is a template for the NeuroHackademy 2025 week-1
+This repository is a template for the NeuroHackademy 2026 week-1
 projects. The goal of the project is to examine data from the
 [Reproducible Brain Charts (RBC)](https://reprobrainchart.github.io/) database
 and to use any of its data to predict the `p_factor` of a set of participants.
@@ -9,22 +9,27 @@ Project details can be found below.
 
 ## How to use this repository
 
-This repository is a template repository. Please use the big green button in
-the upper right corner of its [GitHub page](
-https://github.com/NeuroHackademy2025/week1-project-template) that says "Use
-this template" and select the "Create a new repository" option. We encourage
-all group members to clone the repository (but only one group member should
-upload the predicted data and make a pull request at the end; these steps are
-documented in the analysis notebook).
+This repository is a template for your own analysis of the RBC dataset. Please
+[fork this repository](
+https://github.com/NeuroHackademy2026/nh2026-week1-project/fork) then clone
+your forked copy locally into your JupyterHub environment:
 
-Once you have forked the repository as a template, you should clone it locally
-on the JupyterHub and open the `analysis.ipynb` notebook in the repository
-root. This file contains an example workflow that loads in the surface area of
-Brodmann Area 1 for each subject, trains a linear regression model to predict
-the `p_factor` based on that surface area in the set of training participants,
-then uses the trained model to predict the `p_factor` in for the test
-participants based on their BA1 surface areas. Feel free to make your own
-notebook or to modify this analysis notebook for your project.
+```bash
+git clone git@github.com:USERNAME/nh2026-week1-project
+```
+
+We encourage all group members to fork the repository (but only one group
+member should upload the predicted data and make a pull request at the end;
+these steps are documented in the analysis notebook).
+
+Once you have cloned your fork of the repository locally on the JupyterHub you
+can open the `analysis.ipynb` notebook in the repository root. This file
+contains an example workflow that loads in the surface area of Brodmann Area 1
+for each subject, trains a linear regression model to predict the `p_factor`
+based on that surface area in the set of training participants, then uses the
+trained model to predict the `p_factor` in for the test participants based on
+their BA1 surface areas. Feel free to make your own notebook or to modify this
+analysis notebook for your project.
 
 
 ## The RBC Database
