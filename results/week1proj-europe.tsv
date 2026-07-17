@@ -1,0 +1,322 @@
+participant_id	study	study_site	session_id	wave	age	sex	race	ethnicity	bmi	handedness	participant_education	parent_1_education	parent_2_education	p_factor
+2285120424	PNC	PNC1	PNC1	1	16.16666667	Female	Black	not Hispanic or Latino	22.67	Left	9th Grade	Complete secondary	Complete secondary	-0.33844682671209214
+1854364375	PNC	PNC1	PNC1	1	16.83333333	Female	White	not Hispanic or Latino	28.19	Right	10th Grade	Complete secondary	Complete primary	-0.38583451034244753
+1448081953	PNC	PNC1	PNC1	1	19.58333333	Female	White	not Hispanic or Latino	25.1	Right	Some College	Complete tertiary	Complete tertiary	-0.4121056187103849
+1342685465	PNC	PNC1	PNC1	1	17.16666667	Female	Black	not Hispanic or Latino	31.93	Right	10th Grade	Complete primary	Complete primary	-0.08418063405695603
+3289562482	PNC	PNC1	PNC1	1	21.16666667	Female	White	not Hispanic or Latino		Right	12th Grade	Complete tertiary	Complete secondary	-0.2074540675922711
+868703738	PNC	PNC1	PNC1	1	20.0	Female	Black	Hispanic or Latino		Right	12th Grade	Complete tertiary		-0.2404049652244265
+985910486	PNC	PNC1	PNC1	1	18.75	Female	Black	not Hispanic or Latino	24.5	Right	12th Grade	Complete primary		0.010858460948426685
+1594198178	PNC	PNC1	PNC1	1	14.33333333	Male	Black	not Hispanic or Latino	31.16	Right	8th Grade	Complete secondary	Complete primary	-0.28158677733484205
+2171168019	PNC	PNC1	PNC1	1	15.16666667	Female	White	not Hispanic or Latino	25.23	Right	8th Grade	Complete primary	Complete primary	-0.49528066034747403
+2614145086	PNC	PNC1	PNC1	1	17.83333333	Male	White	not Hispanic or Latino	17.54	Right	10th Grade	Complete tertiary	Complete tertiary	-0.4457733056979909
+225017631	PNC	PNC1	PNC1	1	15.08333333	Female	Black	not Hispanic or Latino	17.92	Right	8th Grade	Complete primary	Complete primary	-0.5079944815357618
+975856179	PNC	PNC1	PNC1	1	11.0	Male	White	not Hispanic or Latino	15.67	Right	4th Grade	Complete primary	Complete secondary	-0.6616846747906788
+3362293049	PNC	PNC1	PNC1	1	19.25	Female	Other	not Hispanic or Latino		Left	12th Grade	Complete primary	Complete tertiary	-0.08156302093055162
+93800202	PNC	PNC1	PNC1	1	9.833333333	Female	Black	not Hispanic or Latino	12.2	Left	3rd Grade	Complete primary	Complete primary	-0.5031009526572013
+2412716526	PNC	PNC1	PNC1	1	19.08333333	Female	Black	not Hispanic or Latino		Right	12th Grade	Complete primary	Complete primary	-0.061780378976712624
+1152449741	PNC	PNC1	PNC1	1	16.33333333	Female	Black	not Hispanic or Latino	25.82	Right	9th Grade	Complete primary	Complete primary	-0.3130680017915058
+1070737504	PNC	PNC1	PNC1	1	17.83333333	Female	White	not Hispanic or Latino	23.77	Right	11th Grade	Complete tertiary	Complete secondary	-0.5287881513020904
+3225665554	PNC	PNC1	PNC1	1	16.5	Male	Black	not Hispanic or Latino		Right	8th Grade	Complete primary	Complete primary	-0.11976463640525736
+1877783147	PNC	PNC1	PNC1	1	12.83333333	Male	Black	not Hispanic or Latino		Right	6th Grade	Complete primary	Complete primary	-0.31715770720376685
+419535935	PNC	PNC1	PNC1	1	10.83333333	Female	Black	not Hispanic or Latino		Right	4th Grade	Complete primary	Complete primary	-0.4719939145351322
+49408975	PNC	PNC1	PNC1	1	10.58333333	Female	Black	not Hispanic or Latino	23.22	Right	3rd Grade	Complete primary	Complete primary	-0.6113211225874511
+2180316189	PNC	PNC1	PNC1	1	8.25	Male	Black	not Hispanic or Latino		Right	2nd Grade	Complete primary	Complete primary	-0.26781671768241466
+881641391	PNC	PNC1	PNC1	1	13.0	Male	White	not Hispanic or Latino	24.23	Right	7th Grade	Complete primary	Complete primary	-0.5208515225735506
+189913356	PNC	PNC1	PNC1	1	11.66666667	Female	Black	not Hispanic or Latino	30.27	Right	4th Grade	Complete primary	Complete primary	-0.49419899950950147
+1068261111	PNC	PNC1	PNC1	1	19.83333333	Female	Black	not Hispanic or Latino	21.43	Right	12th Grade	Complete primary		0.15483072253093616
+4199436321	PNC	PNC1	PNC1	1	13.25	Female	White	not Hispanic or Latino	18.13	Right	7th Grade	Complete tertiary	Complete primary	-0.8363993494586885
+3345297865	PNC	PNC1	PNC1	1	19.83333333	Female	White	not Hispanic or Latino	20.8	Right	Some College	Complete tertiary	Complete tertiary	-0.3709460070308164
+699288066	PNC	PNC1	PNC1	1	12.16666667	Male	Black	not Hispanic or Latino	23.9	Right	4th Grade	Complete secondary	Complete primary	-0.5287711922912808
+1812622069	PNC	PNC1	PNC1	1	9.416666667	Female	Black	not Hispanic or Latino	32.54	Right	3rd Grade	Complete primary	Complete primary	-0.5430347372246079
+2745152671	PNC	PNC1	PNC1	1	19.0	Female	Black	not Hispanic or Latino	29.05	Right	11th Grade	Complete primary	Complete primary	-0.06091565003314647
+115784129	PNC	PNC1	PNC1	1	20.16666667	Male	White	not Hispanic or Latino		Right	12th Grade	Complete tertiary	Complete tertiary	-0.0533524173542006
+1710493410	PNC	PNC1	PNC1	1	18.08333333	Female	White	not Hispanic or Latino	19.48	Right	12th Grade	Complete tertiary	Complete tertiary	-0.6130323951554957
+3419043004	PNC	PNC1	PNC1	1	15.41666667	Male	Black	not Hispanic or Latino		Right	9th Grade	Complete primary	Complete primary	-0.3902145066620992
+835001493	PNC	PNC1	PNC1	1	14.83333333	Male	White	not Hispanic or Latino	19.02	Right	8th Grade	Complete tertiary	Complete tertiary	-0.6318329787553245
+1997401992	PNC	PNC1	PNC1	1	17.33333333	Male	Black	not Hispanic or Latino		Right	10th Grade	Complete tertiary	Complete primary	-0.39426477988077213
+3666908232	PNC	PNC1	PNC1	1	16.75	Female	Black	not Hispanic or Latino		Right	10th Grade	Complete primary	Complete primary	-0.2486552532982652
+1789695979	PNC	PNC1	PNC1	1	14.91666667	Female	Black	not Hispanic or Latino	23.04	Right	8th Grade	Complete tertiary	Complete tertiary	-0.6599678718519949
+2499963942	PNC	PNC1	PNC1	1	18.25	Female	Black	not Hispanic or Latino	30.1	Left	12th Grade	Complete secondary	Complete primary	-0.2320899589353785
+1905979097	PNC	PNC1	PNC1	1	15.25	Male	White	not Hispanic or Latino	19.57	Left	7th Grade	Complete primary		-0.28598202169578635
+1457648056	PNC	PNC1	PNC1	1	15.58333333	Female	Black	not Hispanic or Latino	29.12	Left	8th Grade	Complete primary	Complete primary	-0.257204612583277
+2551635949	PNC	PNC1	PNC1	1	18.91666667	Female	White	not Hispanic or Latino	20.9	Right	11th Grade	Complete tertiary	Complete tertiary	-0.3285917977563438
+2726208310	PNC	PNC1	PNC1	1	13.58333333	Male	Other	not Hispanic or Latino		Left	6th Grade	Complete primary	Complete secondary	-0.35464238745880894
+562992781	PNC	PNC1	PNC1	1	11.91666667	Male	White	not Hispanic or Latino	20.24	Right	5th Grade	Complete secondary	Complete primary	-0.5783909322030629
+1050116930	PNC	PNC1	PNC1	1	18.16666667	Female	Black	not Hispanic or Latino	28.34	Right	12th Grade	Complete secondary	Complete primary	-0.2008303165714034
+831081379	PNC	PNC1	PNC1	1	12.0	Male	White	not Hispanic or Latino	17.76	Right	5th Grade	Complete tertiary	Complete tertiary	-0.8449926050169443
+1076565274	PNC	PNC1	PNC1	1	14.08333333	Male	Black	not Hispanic or Latino	19.76	Right	7th Grade	Complete tertiary	Complete primary	-0.6218634774590586
+2361299150	PNC	PNC1	PNC1	1	15.41666667	Male	Black	not Hispanic or Latino	22.79	Right	9th Grade	Complete secondary	Complete primary	-0.31695633904866005
+1221640483	PNC	PNC1	PNC1	1	19.0	Female	Other	not Hispanic or Latino	24.88	Right	12th Grade	Complete tertiary	Complete tertiary	-0.47290648496397286
+2258551019	PNC	PNC1	PNC1	1	15.25	Male	Black	not Hispanic or Latino	26.92	Right	8th Grade	Complete primary	Complete secondary	-0.22532267251505425
+3859141450	PNC	PNC1	PNC1	1	17.83333333	Female	Black	not Hispanic or Latino	22.65	Right	11th Grade	Complete tertiary	Complete primary	-0.2933658247481865
+4292903812	PNC	PNC1	PNC1	1	16.08333333	Male	White	not Hispanic or Latino		Right	9th Grade	Complete secondary	Complete tertiary	-0.7538939853630429
+383103459	PNC	PNC1	PNC1	1	12.25	Male	White	not Hispanic or Latino	25.6	Right	5th Grade	Complete primary	Complete tertiary	-0.5240756119332594
+2979786632	PNC	PNC1	PNC1	1	16.91666667	Female	White	not Hispanic or Latino	17.75	Right	9th Grade	Complete secondary	Complete secondary	-0.4560622123243665
+1929155048	PNC	PNC1	PNC1	1	18.75	Female	Black	not Hispanic or Latino		Ambidextrous	12th Grade	Complete primary	Complete primary	-0.04248010168539118
+3703469018	PNC	PNC1	PNC1	1	17.0	Female	White	not Hispanic or Latino	21.72	Right	10th Grade	Complete secondary	Complete tertiary	-0.5851925768450358
+661770582	PNC	PNC1	PNC1	1	15.08333333	Female	Black	not Hispanic or Latino		Right	8th Grade	Complete primary	No/incomplete primary	-0.32147910281689773
+1852239521	PNC	PNC1	PNC1	1	10.0	Male	White	not Hispanic or Latino	14.06	Right	4th Grade	Complete tertiary	Complete tertiary	-0.9927836420770395
+2375649228	PNC	PNC1	PNC1	1	10.66666667	Male	White	not Hispanic or Latino	17.77	Right	5th Grade	Complete secondary	Complete secondary	-0.6729814722674816
+1996891106	PNC	PNC1	PNC1	1	9.333333333	Female	Black	not Hispanic or Latino		Right	4th Grade	Complete secondary	Complete secondary	-0.5350262928172045
+248138276	PNC	PNC1	PNC1	1	19.0	Male	Black	not Hispanic or Latino	23.49	Right	12th Grade	Complete tertiary	Complete primary	-0.019284815875484584
+1744430207	PNC	PNC1	PNC1	1	11.91666667	Male	Other	Hispanic or Latino	23.4	Right	5th Grade	Complete secondary	Complete primary	-0.3417541878934054
+1157595916	PNC	PNC1	PNC1	1	19.58333333	Female	Black	not Hispanic or Latino		Right	Some College	Complete secondary	Complete secondary	-0.05025200063348251
+3604691191	PNC	PNC1	PNC1	1	14.16666667	Female	Black	not Hispanic or Latino	18.45	Right	8th Grade	Complete tertiary	Complete tertiary	-0.8624360040700241
+352505908	PNC	PNC1	PNC1	1	16.25	Male	Black	not Hispanic or Latino	27.91	Right	11th Grade	Complete primary		-0.18921426400742908
+2925300630	PNC	PNC1	PNC1	1	17.33333333	Female	White	not Hispanic or Latino		Right	11th Grade	Complete tertiary	Complete tertiary	-0.6846784002476749
+1137996270	PNC	PNC1	PNC1	1	9.666666667	Female	Other	Hispanic or Latino	19.97	Right	3rd Grade	Complete tertiary	Complete primary	-0.8676372386303124
+2555837927	PNC	PNC1	PNC1	1	10.08333333	Male	White	not Hispanic or Latino	14.82	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.8705950053638847
+348711479	PNC	PNC1	PNC1	1	16.25	Male	White	not Hispanic or Latino	18.63	Left	8th Grade	Complete tertiary	Complete tertiary	-0.5241855146479669
+2860715826	PNC	PNC1	PNC1	1	16.75	Female	Black	not Hispanic or Latino		Right	9th Grade	Complete secondary	Complete secondary	-0.39553856612567106
+2675724304	PNC	PNC1	PNC1	1	15.58333333	Male	White	not Hispanic or Latino		Left	8th Grade	Complete primary	Complete tertiary	-0.536846709530848
+4122649464	PNC	PNC1	PNC1	1	9.416666667	Female	White	not Hispanic or Latino	14.32	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.9506987791567776
+228519096	PNC	PNC1	PNC1	1	8.916666667	Female	Black	not Hispanic or Latino	22.54	Right	4th Grade	Complete primary	Complete primary	-0.62899396344517
+898340201	PNC	PNC1	PNC1	1	10.41666667	Male	White	not Hispanic or Latino	18.61	Right	4th Grade	Complete tertiary	Complete tertiary	-0.9658148415275936
+300988508	PNC	PNC1	PNC1	1	10.41666667	Female	White	not Hispanic or Latino	14.34	Right	2nd Grade	Complete tertiary	Complete secondary	-1.100841288248158
+1612290284	PNC	PNC1	PNC1	1	19.41666667	Female	White	not Hispanic or Latino	31.24	Right	Some College	Complete secondary	Complete tertiary	-0.43634458412500876
+3538085126	PNC	PNC1	PNC1	1	16.75	Male	White	not Hispanic or Latino		Left	10th Grade	Complete tertiary	Complete primary	-0.33215915173481997
+831211165	PNC	PNC1	PNC1	1	14.16666667	Male	White	not Hispanic or Latino	26.95	Right	7th Grade	Complete secondary	Complete primary	-0.6187054163504406
+361728233	PNC	PNC1	PNC1	1	16.33333333	Male	White	not Hispanic or Latino	18.47	Left	9th Grade	Complete tertiary	Complete tertiary	-0.6260146446252635
+681935372	PNC	PNC1	PNC1	1	14.16666667	Female	Black	not Hispanic or Latino		Left	8th Grade	Complete secondary	Complete primary	-0.5601193004599052
+628391776	PNC	PNC1	PNC1	1	15.75	Male	Black	not Hispanic or Latino	19.99	Right	9th Grade	Complete tertiary	Complete tertiary	-0.47605091737026656
+389182564	PNC	PNC1	PNC1	1	17.5	Female	White	not Hispanic or Latino		Right	10th Grade	Complete tertiary	Complete tertiary	-0.6839301511877932
+3706183788	PNC	PNC1	PNC1	1	12.75	Male	White	not Hispanic or Latino	37.02	Right	6th Grade	Complete tertiary	Complete tertiary	-0.7605138199440629
+4118326689	PNC	PNC1	PNC1	1	10.25	Male	Black	not Hispanic or Latino	17.84	Left	3rd Grade	Complete secondary	Complete primary	-0.5522495755218255
+2305221381	PNC	PNC1	PNC1	1	17.0	Male	White	not Hispanic or Latino	26.15	Right	9th Grade	Complete tertiary	Complete tertiary	-0.5494102116095844
+924815264	PNC	PNC1	PNC1	1	17.41666667	Male	White	not Hispanic or Latino		Right	10th Grade	Complete tertiary	Complete tertiary	-0.36727931153875465
+3806576780	PNC	PNC1	PNC1	1	16.25	Female	White	not Hispanic or Latino	19.69	Right	9th Grade	Complete tertiary	Complete primary	-0.5020510258986474
+1742732745	PNC	PNC1	PNC1	1	14.66666667	Male	White	not Hispanic or Latino	24.79	Right	7th Grade	Complete primary	Complete primary	-0.3211175077105554
+2877714252	PNC	PNC1	PNC1	1	16.66666667	Female	Black	not Hispanic or Latino	37.12	Right	8th Grade	Complete primary	Complete primary	-0.29421696041142714
+1829488364	PNC	PNC1	PNC1	1	19.58333333	Female	Black	not Hispanic or Latino	24.39	Ambidextrous	12th Grade	Complete primary	Complete primary	-0.014468403693558507
+2292204095	PNC	PNC1	PNC1	1	19.0	Female	Black	not Hispanic or Latino		Right	11th Grade	Complete tertiary	Complete primary	-0.12197356327046377
+3653965527	PNC	PNC1	PNC1	1	9.416666667	Male	White	not Hispanic or Latino		Right	3rd Grade	Complete secondary	Complete secondary	-0.598983479021342
+2299321259	PNC	PNC1	PNC1	1	19.16666667	Female	White	not Hispanic or Latino		Left	Some College	Complete tertiary	Complete tertiary	-0.178755358599671
+4107507507	PNC	PNC1	PNC1	1	12.41666667	Male	White	not Hispanic or Latino	17.56	Right	5th Grade	Complete secondary	Complete primary	-0.5249276048865958
+2154725318	PNC	PNC1	PNC1	1	15.75	Female	Black	not Hispanic or Latino	20.96	Left	9th Grade	Complete tertiary	Complete tertiary	-0.6865305352037154
+2470886822	PNC	PNC1	PNC1	1	10.33333333	Female	Black	not Hispanic or Latino	19.47	Left	5th Grade	Complete tertiary	Complete tertiary	-0.9367204208780522
+1481550494	PNC	PNC1	PNC1	1	17.08333333	Male	Black	not Hispanic or Latino	22.37	Left	10th Grade	Complete primary	Complete primary	-0.128692486181741
+2739408373	PNC	PNC1	PNC1	1	10.0	Male	Black	not Hispanic or Latino		Left	3rd Grade	Complete tertiary	Complete secondary	-0.7971563740572571
+1114035056	PNC	PNC1	PNC1	1	19.33333333	Female	Black	not Hispanic or Latino		Right	12th Grade	Complete primary	Complete primary	0.041227482807553506
+3923883359	PNC	PNC1	PNC1	1	14.5	Female	Black	not Hispanic or Latino		Right	7th Grade	Complete tertiary	Complete tertiary	-0.6898803342866605
+3010264843	PNC	PNC1	PNC1	1	14.66666667	Male	White	not Hispanic or Latino		Right	8th Grade	Complete tertiary	Complete tertiary	-0.8464102536104251
+1310206420	PNC	PNC1	PNC1	1	17.5	Male	Black	not Hispanic or Latino	19.19	Right	9th Grade	Complete primary	Complete tertiary	-0.238129204048868
+322458406	PNC	PNC1	PNC1	1	14.91666667	Female	Black	not Hispanic or Latino		Right	8th Grade	Complete tertiary	Complete primary	-0.6981037002868069
+1823231434	PNC	PNC1	PNC1	1	20.5	Male	Black	not Hispanic or Latino	19.96	Right	12th Grade	Complete primary	Complete primary	0.10943144468991212
+3060404940	PNC	PNC1	PNC1	1	10.5	Female	Black	not Hispanic or Latino	19.5	Right	4th Grade	Complete primary	Complete primary	-0.4397160934835702
+3234328642	PNC	PNC1	PNC1	1	12.08333333	Female	Black	not Hispanic or Latino	22.14	Right	5th Grade	Complete tertiary	Complete primary	-0.6081718549714601
+1764158413	PNC	PNC1	PNC1	1	16.66666667	Female	Other	not Hispanic or Latino	21.25	Right	11th Grade	Complete secondary	Complete primary	-0.4457184187572072
+1876155559	PNC	PNC1	PNC1	1	14.25	Male	Black	not Hispanic or Latino	29.81	Left	7th Grade	Complete primary	Complete primary	-0.30583667418907273
+1861767482	PNC	PNC1	PNC1	1	18.66666667	Male	White	Hispanic or Latino		Right	12th Grade	Complete secondary	Complete secondary	-0.1885880584468873
+2450905343	PNC	PNC1	PNC1	1	19.5	Male	Black	not Hispanic or Latino	25.09	Right	11th Grade	Complete tertiary	Complete secondary	-0.06422260085171111
+3836020010	PNC	PNC1	PNC1	1	19.75	Male	Other	not Hispanic or Latino	27.19	Right	11th Grade	Complete tertiary	Complete primary	-0.05692722279492701
+530789110	PNC	PNC1	PNC1	1	13.58333333	Male	Black	not Hispanic or Latino	26.57	Right	6th Grade	Complete primary		-0.273856119876122
+1963601913	PNC	PNC1	PNC1	1	20.16666667	Female	White	not Hispanic or Latino	18.75	Right	11th Grade	Complete tertiary	Complete tertiary	-0.2969670840664191
+3726299659	PNC	PNC1	PNC1	1	8.583333333	Male	Black	not Hispanic or Latino		Ambidextrous	2nd Grade	Complete primary	Complete primary	-0.3105074947638945
+420900014	PNC	PNC1	PNC1	1	15.25	Female	White	not Hispanic or Latino	18.59	Right	9th Grade	Complete tertiary	Complete tertiary	-0.9073336669866112
+2347753317	PNC	PNC1	PNC1	1	11.83333333	Female	White	not Hispanic or Latino	25.74	Right	5th Grade	Complete secondary	Complete primary	-0.4679400488645645
+4040716945	PNC	PNC1	PNC1	1	16.0	Female	Black	not Hispanic or Latino	25.31	Right	8th Grade	Complete secondary	Complete primary	-0.43852057618076695
+1615516059	PNC	PNC1	PNC1	1	18.16666667	Female	White	not Hispanic or Latino	24.62	Left	11th Grade	Complete tertiary	Complete tertiary	-0.4259396953632456
+1248515966	PNC	PNC1	PNC1	1	12.91666667	Male	Black	Hispanic or Latino	16.22	Right	6th Grade	Complete tertiary	Complete primary	-0.6136264870480963
+1560828340	PNC	PNC1	PNC1	1	20.41666667	Female	Black	not Hispanic or Latino	24.79	Right	Some College	Complete tertiary	Complete tertiary	-0.20364818370352783
+1512563087	PNC	PNC1	PNC1	1	17.5	Female	White	not Hispanic or Latino	22.59	Right	11th Grade	Complete secondary	Complete primary	-0.26576738531986177
+309129555	PNC	PNC1	PNC1	1	8.583333333	Female	White	not Hispanic or Latino	20.49	Right	2nd Grade	Complete tertiary	Complete tertiary	-0.8548486847527608
+392818846	PNC	PNC1	PNC1	1	15.16666667	Male	Other	not Hispanic or Latino		Left	9th Grade	Complete primary	Complete secondary	-0.36810633749566435
+1671345251	PNC	PNC1	PNC1	1	13.91666667	Male	Black	not Hispanic or Latino	28.28	Left	7th Grade	Complete secondary		-0.4603660855789517
+2129564650	PNC	PNC1	PNC1	1	17.16666667	Male	White	not Hispanic or Latino	24.96	Right	10th Grade	Complete tertiary		-0.72455328125241
+447775004	PNC	PNC1	PNC1	1	14.66666667	Male	Black	not Hispanic or Latino	31.6	Right	7th Grade		Complete secondary	-0.574889109366507
+1838464457	PNC	PNC1	PNC1	1	20.25	Male	White	not Hispanic or Latino		Right	11th Grade	Complete tertiary	Complete tertiary	-0.13723526588777424
+1654508502	PNC	PNC1	PNC1	1	23.08333333	Female	Black	not Hispanic or Latino		Right	11th Grade	Complete primary		0.7068435912945532
+2442304782	PNC	PNC1	PNC1	1	21.25	Male	Black	not Hispanic or Latino		Right	11th Grade	Complete primary		0.348173184916951
+1120459625	PNC	PNC1	PNC1	1	17.25	Male	Black	not Hispanic or Latino	21.3	Right	10th Grade			-0.17371328097202648
+1164794273	PNC	PNC1	PNC1	1	16.66666667	Male	White	not Hispanic or Latino	30.17	Right	10th Grade	Complete primary	Complete primary	-0.28861247618224595
+2333477346	PNC	PNC1	PNC1	1	18.83333333	Male	White	not Hispanic or Latino		Right	11th Grade	Complete primary	Complete primary	-0.07325969172118008
+749926734	PNC	PNC1	PNC1	1	20.75	Female	Black	not Hispanic or Latino		Right	Some College	Complete primary	Complete primary	0.1687624431732309
+678139191	PNC	PNC1	PNC1	1	14.58333333	Female	Asian	not Hispanic or Latino		Right	8th Grade	Complete secondary	Complete tertiary	-0.5399399542710112
+3722539437	PNC	PNC1	PNC1	1	13.91666667	Female	Black	not Hispanic or Latino		Right	7th Grade	Complete primary	Complete primary	-0.40093135184739165
+2486269820	PNC	PNC1	PNC1	1	12.5	Male	White	not Hispanic or Latino	18.35	Right	5th Grade	Complete secondary		-0.7671217038852985
+1438348583	PNC	PNC1	PNC1	1	9.75	Female	Other	not Hispanic or Latino	16.87	Left	4th Grade	Complete tertiary	Complete tertiary	-1.0606662654055938
+1308201745	PNC	PNC1	PNC1	1	8.25	Female	Black	not Hispanic or Latino	14.32	Left	2nd Grade	Complete tertiary	Complete tertiary	-0.8072356715941398
+537502840	PNC	PNC1	PNC1	1	14.41666667	Female	White	not Hispanic or Latino	18.89	Right	8th Grade	Complete primary	Complete primary	-0.5106425904498699
+2057058534	PNC	PNC1	PNC1	1	16.25	Female	Other	not Hispanic or Latino	19.73	Ambidextrous	9th Grade	Complete secondary	Complete primary	-0.31431114824252326
+3104080596	PNC	PNC1	PNC1	1	17.5	Male	White	not Hispanic or Latino	27.8	Right	11th Grade	Complete primary	Complete primary	-0.36058119606606776
+3995554858	PNC	PNC1	PNC1	1	14.25	Male	Black	not Hispanic or Latino	26.49	Right	8th Grade	Complete primary	Complete secondary	-0.39179950749507264
+162526644	PNC	PNC1	PNC1	1	10.16666667	Female	White	not Hispanic or Latino	12.05	Right	4th Grade	Complete tertiary	Complete tertiary	-1.0504332092472033
+1654523276	PNC	PNC1	PNC1	1	11.75	Female	White	not Hispanic or Latino		Right	2nd Grade	Complete tertiary	Complete tertiary	-1.0688516365023424
+1479578650	PNC	PNC1	PNC1	1	9.416666667	Male	White	not Hispanic or Latino	19.83	Right	3rd Grade	Complete tertiary	Complete primary	-0.7771259740444546
+1157233457	PNC	PNC1	PNC1	1	12.41666667	Male	Black	not Hispanic or Latino		Right	5th Grade	Complete primary		-0.3492364088562403
+2179545776	PNC	PNC1	PNC1	1	8.5	Female	Black	not Hispanic or Latino	21.09	Left	2nd Grade	Complete secondary	Complete primary	-0.58654340026228
+1357417369	PNC	PNC1	PNC1	1	15.0	Female	Black	not Hispanic or Latino	19.76	Right	8th Grade	Complete primary	Complete primary	-0.4212187646582137
+856706691	PNC	PNC1	PNC1	1	16.83333333	Male	Black	not Hispanic or Latino	36.91	Right	10th Grade	Complete secondary	Complete primary	-0.15393235489528606
+3275217080	PNC	PNC1	PNC1	1	10.16666667	Male	Black	Hispanic or Latino	22.27	Left	4th Grade	Complete primary	Complete primary	-0.5963035620929874
+2286509730	PNC	PNC1	PNC1	1	10.0	Male	Black	not Hispanic or Latino	16.26	Right	2nd Grade	Complete primary		-0.34912188113603704
+2133389205	PNC	PNC1	PNC1	1	13.33333333	Male	White	not Hispanic or Latino	18.32	Right	6th Grade	Complete secondary	Complete tertiary	-0.7922992123686963
+2748843731	PNC	PNC1	PNC1	1	9.416666667	Female	White	not Hispanic or Latino	16.87	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.951617133572539
+3450122487	PNC	PNC1	PNC1	1	10.91666667	Male	White	not Hispanic or Latino	13.76	Right	5th Grade	Complete secondary	Complete secondary	-0.825802960136502
+1761492502	PNC	PNC1	PNC1	1	20.08333333	Male	White	not Hispanic or Latino		Left	Some College	Complete tertiary	Complete primary	-0.15504651252775736
+287967180	PNC	PNC1	PNC1	1	10.83333333	Female	Black	not Hispanic or Latino		Right	4th Grade	Complete primary		-0.5998130246533889
+3749102689	PNC	PNC1	PNC1	1	17.83333333	Female	Black	not Hispanic or Latino	20.01	Right	11th Grade	Complete primary		-0.16304992815226887
+4031942322	PNC	PNC1	PNC1	1	16.75	Male	White	not Hispanic or Latino	20.08	Right	10th Grade	Complete tertiary	Complete tertiary	-0.5818636713993531
+2425606479	PNC	PNC1	PNC1	1	14.83333333	Female	Other	Hispanic or Latino	21.78	Right	8th Grade	Complete tertiary	Complete tertiary	-0.8007828921386737
+3743186010	PNC	PNC1	PNC1	1	9.25	Male	Black	not Hispanic or Latino	19.77	Left	2nd Grade	Complete tertiary	Complete secondary	-0.5604980975384315
+1738235220	PNC	PNC1	PNC1	1	15.75	Female	Black	not Hispanic or Latino	21.94	Right	7th Grade	Complete tertiary	Complete primary	-0.5347219672200347
+482294424	PNC	PNC1	PNC1	1	14.66666667	Female	White	not Hispanic or Latino	22.29	Right	8th Grade	Complete secondary	Complete primary	-0.5149695474274953
+3290096905	PNC	PNC1	PNC1	1	14.33333333	Female	Black	not Hispanic or Latino		Left	7th Grade	Complete primary	Complete secondary	-0.41804372218773783
+3985888022	PNC	PNC1	PNC1	1	15.0	Female	White	not Hispanic or Latino	17.43	Right	9th Grade	Complete tertiary	Complete tertiary	-0.9126402329437607
+2781760374	PNC	PNC1	PNC1	1	8.5	Female	Other	Hispanic or Latino	12.05	Left	2nd Grade	Complete tertiary		-0.7880100216058965
+3762475569	PNC	PNC1	PNC1	1	10.08333333	Male	Other	Hispanic or Latino	16.36	Right	3rd Grade	Complete tertiary	Complete primary	-0.6793069018301733
+3896564969	PNC	PNC1	PNC1	1	20.0	Female	Black	not Hispanic or Latino		Right	11th Grade	Complete primary		0.24481891819334128
+3194237272	PNC	PNC1	PNC1	1	13.75	Male	White	not Hispanic or Latino	17.16	Right	5th Grade	Complete secondary	Complete primary	-0.7267796158724655
+462702505	PNC	PNC1	PNC1	1	14.83333333	Male	White	not Hispanic or Latino	25.74	Right	7th Grade	Complete primary	Complete primary	-0.39144281550081883
+234528430	PNC	PNC1	PNC1	1	20.91666667	Male	Black	not Hispanic or Latino		Right	Some College	Complete tertiary	Complete secondary	0.14784772355638348
+3260960488	PNC	PNC1	PNC1	1	19.08333333	Male	White	not Hispanic or Latino		Right	Some College	Complete tertiary	Complete tertiary	-0.43106128906338104
+1908959165	PNC	PNC1	PNC1	1	17.5	Male	White	not Hispanic or Latino	22.03	Right	11th Grade	Complete primary	Complete tertiary	-0.36471366279964673
+3732485344	PNC	PNC1	PNC1	1	14.91666667	Male	Black	not Hispanic or Latino	16.82	Right	8th Grade	Complete secondary	Complete secondary	-0.488228826937643
+1604003015	PNC	PNC1	PNC1	1	21.75	Female	Black	not Hispanic or Latino	36.9	Right	Some College	Complete primary		0.33483407685044336
+4137147732	PNC	PNC1	PNC1	1	12.91666667	Female	White	not Hispanic or Latino		Left	6th Grade	Complete tertiary		-0.9220796570524743
+2103228157	PNC	PNC1	PNC1	1	8.5	Male	White	not Hispanic or Latino	15.94	Right	2nd Grade	Complete tertiary	Complete tertiary	-0.7493384978826368
+1779531630	PNC	PNC1	PNC1	1	8.166666667	Male	Black	not Hispanic or Latino		Right	1st Grade	Complete tertiary	Complete primary	-0.49667258360266653
+3809989470	PNC	PNC1	PNC1	1	11.08333333	Female	Black	not Hispanic or Latino		Right	5th Grade	Complete primary	Complete primary	-0.5625695707370381
+1804310687	PNC	PNC1	PNC1	1	11.41666667	Female	Black	not Hispanic or Latino	27.43	Right	5th Grade	Complete secondary	Complete tertiary	-0.7541046990536504
+3381441522	PNC	PNC1	PNC1	1	12.41666667	Male	Black	not Hispanic or Latino	18.88	Right	6th Grade	Complete primary	No/incomplete primary	-0.4629333580520779
+2333937949	PNC	PNC1	PNC1	1	13.75	Female	White	not Hispanic or Latino	23.68	Right	7th Grade	Complete tertiary	Complete primary	-0.8239085290860457
+2424990755	PNC	PNC1	PNC1	1	17.66666667	Female	Black	not Hispanic or Latino	28.4	Right	11th Grade	Complete primary	Complete primary	-0.3009357633551982
+1753282419	PNC	PNC1	PNC1	1	17.41666667	Male	White	not Hispanic or Latino	20.98	Right	10th Grade	Complete tertiary	Complete tertiary	-0.6288036161967505
+4177765106	PNC	PNC1	PNC1	1	18.33333333	Female	Black	not Hispanic or Latino		Right	11th Grade	Complete primary	Complete tertiary	-0.12648116869539633
+1452555764	PNC	PNC1	PNC1	1	20.25	Female	White	not Hispanic or Latino	29.68	Right	12th Grade	Complete primary	Complete tertiary	-0.09483626337995871
+3669543341	PNC	PNC1	PNC1	1	15.91666667	Male	White	not Hispanic or Latino	20.52	Right	9th Grade	Complete primary	Complete secondary	-0.5185518866421319
+1643083161	PNC	PNC1	PNC1	1	18.83333333	Female	Other	Hispanic or Latino		Right	12th Grade	Complete secondary	Complete primary	-0.10630329717408554
+2397365139	PNC	PNC1	PNC1	1	18.33333333	Male	White	not Hispanic or Latino		Right	11th Grade	Complete tertiary	Complete tertiary	-0.29741056978995256
+1103118018	PNC	PNC1	PNC1	1	21.58333333	Female	Black	not Hispanic or Latino		Right	Some College	Complete secondary	Complete secondary	0.17808798141751997
+2148378283	PNC	PNC1	PNC1	1	21.33333333	Female	White	not Hispanic or Latino		Left	Some College	Complete secondary	Complete secondary	-0.003696415351347626
+1638126951	PNC	PNC1	PNC1	1	9.25	Female	White	not Hispanic or Latino	14.06	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.8405942447205563
+2319442352	PNC	PNC1	PNC1	1	13.16666667	Female	Black	not Hispanic or Latino	27.43	Right	6th Grade	Complete primary	Complete primary	-0.5905143538375968
+3297348664	PNC	PNC1	PNC1	1	15.58333333	Female	Black	not Hispanic or Latino	30.29	Right	9th Grade	Complete tertiary	Complete secondary	-0.5151504798473743
+1852377689	PNC	PNC1	PNC1	1	18.33333333	Male	White	not Hispanic or Latino		Right	11th Grade	Complete tertiary	Complete tertiary	-0.43883921706780976
+1942822174	PNC	PNC1	PNC1	1	10.83333333	Female	Black	not Hispanic or Latino	20.89	Right	5th Grade	Complete secondary	Complete primary	-0.5329579192415042
+3081556774	PNC	PNC1	PNC1	1	10.91666667	Male	White	not Hispanic or Latino	22.45	Left	3rd Grade	Complete secondary	Complete secondary	-0.8831267021551721
+2830121192	PNC	PNC1	PNC1	1	9.333333333	Female	Black	not Hispanic or Latino	18.77	Right	2nd Grade	Complete primary		-0.6395779283171976
+2289849916	PNC	PNC1	PNC1	1	13.66666667	Female	White	not Hispanic or Latino	23.29	Right	7th Grade	Complete tertiary	Complete secondary	-0.9844129593863686
+3530244209	PNC	PNC1	PNC1	1	11.83333333	Female	White	not Hispanic or Latino	16.6	Right	5th Grade	Complete secondary	Complete primary	-0.8208860253126471
+1296243384	PNC	PNC1	PNC1	1	20.25	Female	White	not Hispanic or Latino	25.84	Right	11th Grade	Complete tertiary	Complete tertiary	-0.32220531335111097
+2791148092	PNC	PNC1	PNC1	1	10.91666667	Male	Other	not Hispanic or Latino	19.22	Right	4th Grade	Complete tertiary	Complete tertiary	-0.8876582486452309
+3066751024	PNC	PNC1	PNC1	1	17.41666667	Female	White	not Hispanic or Latino	21.25	Right	9th Grade	Complete tertiary	Complete tertiary	-0.6013025553927177
+3138342343	PNC	PNC1	PNC1	1	10.25	Female	Black	not Hispanic or Latino	20.77	Left	4th Grade	Complete primary	Complete primary	-0.31593853984266185
+1459501611	PNC	PNC1	PNC1	1	17.83333333	Female	White	not Hispanic or Latino	21.63	Right	10th Grade			-0.3036362621757075
+1828951258	PNC	PNC1	PNC1	1	19.33333333	Female	Black	not Hispanic or Latino		Right	Some College	Complete secondary	Complete primary	-0.22890586480458672
+4193918219	PNC	PNC1	PNC1	1	9.5	Female	Black	not Hispanic or Latino	18.92	Right	2nd Grade	Complete secondary	Complete tertiary	-0.9624592880018428
+1992060521	PNC	PNC1	PNC1	1	14.41666667	Female	Black	not Hispanic or Latino		Left	9th Grade	Complete secondary	Complete primary	-0.550677248518691
+3906575236	PNC	PNC1	PNC1	1	13.16666667	Female	White	not Hispanic or Latino	16.99	Left	7th Grade	Complete primary	Complete tertiary	-0.8707766033259223
+1169616649	PNC	PNC1	PNC1	1	9.083333333	Female	Black	not Hispanic or Latino	19.46	Right	2nd Grade	Complete tertiary		-0.9148180272590984
+3761349403	PNC	PNC1	PNC1	1	16.16666667	Female	White	not Hispanic or Latino	21.72	Right	9th Grade	Complete tertiary	Complete secondary	-0.679317191626378
+716537879	PNC	PNC1	PNC1	1	12.08333333	Female	White	not Hispanic or Latino	15.14	Right	5th Grade	Complete tertiary	Complete primary	-0.7420682967095531
+3565014343	PNC	PNC1	PNC1	1	10.83333333	Male	White	not Hispanic or Latino		Right	5th Grade	Complete tertiary	Complete tertiary	-0.8971408796385202
+498628252	PNC	PNC1	PNC1	1	8.583333333	Male	Black	not Hispanic or Latino	18.2	Right	2nd Grade	Complete secondary	Complete primary	-0.6058305540676436
+2490635263	PNC	PNC1	PNC1	1	19.41666667	Female	Black	not Hispanic or Latino	21.94	Left	9th Grade	Complete primary	Complete primary	-0.0031801522630287016
+2413176236	PNC	PNC1	PNC1	1	18.58333333	Female	Black	Hispanic or Latino		Right	12th Grade	Complete secondary	Complete primary	-0.10411831460164284
+1506723543	PNC	PNC1	PNC1	1	16.08333333	Male	White	not Hispanic or Latino	23.11	Ambidextrous	10th Grade	Complete primary	Complete primary	-0.5297909446305585
+1037644062	PNC	PNC1	PNC1	1	15.66666667	Male	Other	Hispanic or Latino	28.48	Right	9th Grade	Complete tertiary	Complete tertiary	-0.7140616549555012
+292969238	PNC	PNC1	PNC1	1	16.91666667	Male	White	not Hispanic or Latino	27.89	Right	10th Grade	Complete primary	Complete primary	-0.3730375449484419
+3745413288	PNC	PNC1	PNC1	1	15.5	Female	White	not Hispanic or Latino	20.11	Right	8th Grade	Complete tertiary	Complete tertiary	-0.7767438277620464
+16684978	PNC	PNC1	PNC1	1	15.16666667	Female	Black	not Hispanic or Latino		Right	10th Grade	Complete primary		-0.27762386390487304
+3926498329	PNC	PNC1	PNC1	1	15.5	Female	Black	not Hispanic or Latino	27.25	Right	8th Grade	Complete secondary	Complete secondary	-0.51378377902912
+3511452762	PNC	PNC1	PNC1	1	11.5	Female	Black	not Hispanic or Latino	21.63	Right	6th Grade	Complete secondary	Complete primary	-0.6976984886465754
+2762202970	PNC	PNC1	PNC1	1	14.33333333	Male	Black	not Hispanic or Latino	31.47	Right	7th Grade	Complete secondary	Complete primary	-0.33549898594245714
+3209198339	PNC	PNC1	PNC1	1	10.58333333	Male	White	Hispanic or Latino	19.83	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.892284588167058
+4197093898	PNC	PNC1	PNC1	1	22.58333333	Male	Black	not Hispanic or Latino	31.56	Right	Some College	Complete primary	Complete primary	0.5708372749752706
+2670354621	PNC	PNC1	PNC1	1	14.41666667	Female	Black	not Hispanic or Latino		Right	4th Grade	Complete primary		-0.3107174276349823
+3996598573	PNC	PNC1	PNC1	1	15.5	Female	White	not Hispanic or Latino	24.74	Right	9th Grade	Complete primary	Complete tertiary	-0.6642116230920012
+2194652555	PNC	PNC1	PNC1	1	12.16666667	Female	Black	not Hispanic or Latino	29.95	Right	5th Grade	Complete primary	Complete secondary	-0.79486694115029
+2625488221	PNC	PNC1	PNC1	1	17.66666667	Female	Black	not Hispanic or Latino	27.27	Right	10th Grade	Complete secondary	Complete primary	-0.10912780301240643
+1510691965	PNC	PNC1	PNC1	1	14.5	Male	Black	not Hispanic or Latino	20.98	Right	8th Grade	Complete secondary	Complete secondary	-0.4419543282476722
+2465300344	PNC	PNC1	PNC1	1	18.16666667	Male	Black	not Hispanic or Latino		Right	9th Grade		Complete primary	0.029007145115761357
+4215014897	PNC	PNC1	PNC1	1	16.41666667	Male	White	not Hispanic or Latino	20.98	Right	10th Grade	Complete secondary	Complete tertiary	-0.39179426604949097
+3231527178	PNC	PNC1	PNC1	1	8.25	Male	Other	not Hispanic or Latino		Right	1st Grade	Complete tertiary	Complete secondary	-0.5762446119891926
+3930335526	PNC	PNC1	PNC1	1	15.16666667	Female	Black	not Hispanic or Latino	21.14	Right	8th Grade	Complete primary	Complete primary	-0.3013759004287555
+981492397	PNC	PNC1	PNC1	1	21.08333333	Male	White	not Hispanic or Latino		Right	Some College	Complete primary	Complete tertiary	-0.031472114863237866
+1841154314	PNC	PNC1	PNC1	1	15.75	Female	White	not Hispanic or Latino	17.67	Left	9th Grade	Complete tertiary	Complete secondary	-0.52460251122459
+3851803705	PNC	PNC1	PNC1	1	13.08333333	Male	Black	not Hispanic or Latino	24.56	Right	6th Grade	Complete secondary	Complete secondary	-0.48393533983561926
+1908390739	PNC	PNC1	PNC1	1	11.83333333	Female	White	not Hispanic or Latino	18.95	Right	5th Grade	Complete tertiary	Complete tertiary	-1.187828341689383
+3010354631	PNC	PNC1	PNC1	1	16.5	Male	White	not Hispanic or Latino	19.76	Right	9th Grade	Complete tertiary	Complete tertiary	-0.5450769274220159
+3410508529	PNC	PNC1	PNC1	1	14.91666667	Female	White	not Hispanic or Latino	22.67	Left	7th Grade	Complete tertiary	Complete tertiary	-0.9245636716235237
+3777345255	PNC	PNC1	PNC1	1	14.75	Male	Black	not Hispanic or Latino	25.82	Right	8th Grade	Complete secondary	Complete primary	-0.34823747340916883
+3458965699	PNC	PNC1	PNC1	1	18.58333333	Male	White	not Hispanic or Latino	17.22	Right	12th Grade	Complete primary	Complete tertiary	-0.3127833172430431
+3647998632	PNC	PNC1	PNC1	1	16.0	Female	Black	not Hispanic or Latino	19.3	Right	8th Grade	Complete primary		-0.26396598083002576
+29811890	PNC	PNC1	PNC1	1	11.41666667	Male	Black	not Hispanic or Latino	14.64	Right	4th Grade	Complete secondary	Complete secondary	-0.6505123490169497
+746461855	PNC	PNC1	PNC1	1	16.41666667	Female	White	not Hispanic or Latino	20.9	Right	8th Grade	Complete secondary	Complete primary	-0.5553875522077095
+1604268733	PNC	PNC1	PNC1	1	18.16666667	Female	White	not Hispanic or Latino		Right	11th Grade	Complete secondary	Complete tertiary	-0.5939505864747654
+2038321583	PNC	PNC1	PNC1	1	9.416666667	Male	Black	not Hispanic or Latino	14.13	Right	3rd Grade	Complete primary	Complete primary	-0.3439353517286582
+1133357643	PNC	PNC1	PNC1	1	9.916666667	Male	Black	not Hispanic or Latino		Right	2nd Grade	Complete secondary	Complete primary	-0.5399927481812836
+1161831083	PNC	PNC1	PNC1	1	13.75	Male	Black	not Hispanic or Latino	32.61	Left	7th Grade	Complete primary	Complete primary	-0.2110187332084829
+3712060241	PNC	PNC1	PNC1	1	11.5	Male	White	not Hispanic or Latino	16.81	Left	4th Grade	Complete tertiary	Complete tertiary	-0.8851871889027527
+3190862186	PNC	PNC1	PNC1	1	16.75	Female	White	not Hispanic or Latino		Right	10th Grade	Complete tertiary	Complete tertiary	-0.6251987525257616
+351109165	PNC	PNC1	PNC1	1	10.5	Male	White	not Hispanic or Latino	15.14	Right	3rd Grade	Complete primary	Complete primary	-0.5262220788199297
+276761217	PNC	PNC1	PNC1	1	11.25	Male	Black	not Hispanic or Latino	20.59	Left	4th Grade	Complete primary	Complete primary	-0.5363260847990476
+574930953	PNC	PNC1	PNC1	1	15.33333333	Male	White	not Hispanic or Latino	19.19	Right	8th Grade	Complete tertiary	Complete tertiary	-0.6008891326783821
+1101490424	PNC	PNC1	PNC1	1	18.33333333	Female	Other	not Hispanic or Latino	22.31	Right	10th Grade	Complete primary	Complete tertiary	-0.4574105447151454
+1222330281	PNC	PNC1	PNC1	1	10.58333333	Female	Other	Hispanic or Latino	22.72	Right	5th Grade	Complete primary	Complete primary	-0.45541705835767543
+401879401	PNC	PNC1	PNC1	1	19.41666667	Female	Other	not Hispanic or Latino		Left	10th Grade	Complete secondary	Complete primary	0.04116677519574191
+367320913	PNC	PNC1	PNC1	1	10.58333333	Female	Other	not Hispanic or Latino	21.74	Right	3rd Grade	Complete secondary	Complete primary	-0.6084439263035208
+1222568744	PNC	PNC1	PNC1	1	8.833333333	Female	Black	not Hispanic or Latino		Right	2nd Grade	Complete primary	Complete primary	-0.7031224742457576
+254383703	PNC	PNC1	PNC1	1	21.08333333	Female	White	not Hispanic or Latino	21.45	Right	Some College	Complete tertiary	Complete secondary	-0.17613201809043139
+1238756309	PNC	PNC1	PNC1	1	12.41666667	Female	Other	Hispanic or Latino	29.05	Right	6th Grade	Complete secondary	Complete primary	-0.654006519835274
+3830031504	PNC	PNC1	PNC1	1	10.75	Male	White	not Hispanic or Latino	17.56	Left	3rd Grade	Complete secondary	Complete tertiary	-0.6514400385358181
+4060589852	PNC	PNC1	PNC1	1	17.33333333	Male	Other	not Hispanic or Latino		Ambidextrous	10th Grade	Complete primary	Complete primary	-0.07748504906970899
+2691116331	PNC	PNC1	PNC1	1	17.83333333	Male	Black	not Hispanic or Latino	33.96	Right	11th Grade	Complete secondary	Complete secondary	-0.058953185549774134
+3957619959	PNC	PNC1	PNC1	1	10.16666667	Female	White	not Hispanic or Latino		Right	2nd Grade	Complete tertiary	Complete tertiary	-1.0403957651697555
+3675176980	PNC	PNC1	PNC1	1	8.833333333	Male	Other	Hispanic or Latino	15.67	Left	2nd Grade	Complete tertiary	Complete primary	-0.7664219487373407
+2404916865	PNC	PNC1	PNC1	1	9.833333333	Female	Black	not Hispanic or Latino	18.3	Right	1st Grade	Complete primary	Complete primary	-0.45365706395227146
+2932569616	PNC	PNC1	PNC1	1	14.08333333	Female	White	not Hispanic or Latino		Left	7th Grade	Complete tertiary	Complete primary	-0.713954459043163
+3770031954	PNC	PNC1	PNC1	1	13.33333333	Male	Other	Hispanic or Latino	17.19	Right	4th Grade	Complete secondary	Complete primary	-0.3800692138918158
+1317462	PNC	PNC1	PNC1	1	16.25	Female	White	not Hispanic or Latino	19.36	Ambidextrous	9th Grade	Complete primary		-0.41211544565346336
+2017344284	PNC	PNC1	PNC1	1	8.583333333	Female	White	not Hispanic or Latino	20.8	Right	1st Grade	Complete secondary	Complete primary	-0.6862980364764246
+969649154	PNC	PNC1	PNC1	1	12.33333333	Male	White	not Hispanic or Latino	17.38	Right	5th Grade	Complete tertiary	Complete secondary	-0.6650223038020736
+517593246	PNC	PNC1	PNC1	1	15.83333333	Female	White	not Hispanic or Latino		Right	9th Grade	Complete secondary	Complete primary	-0.5858127160469363
+978838797	PNC	PNC1	PNC1	1	8.083333333	Female	Black	not Hispanic or Latino		Right	1st Grade	Complete primary	Complete primary	-0.4926515569906258
+3744667754	PNC	PNC1	PNC1	1	11.5	Male	Other	not Hispanic or Latino	19.52	Right	5th Grade	Complete primary	Complete primary	-0.4337332124643396
+2216595430	PNC	PNC1	PNC1	1	21.16666667	Female	White	not Hispanic or Latino		Right	12th Grade	Complete secondary		0.08908438358598031
+909152050	PNC	PNC1	PNC1	1	17.16666667	Female	White	not Hispanic or Latino		Right	11th Grade	Complete secondary	Complete primary	-0.39994716704068745
+2269734277	PNC	PNC1	PNC1	1	11.5	Male	Black	not Hispanic or Latino	18.08	Left	5th Grade	Complete primary	Complete primary	-0.5427028256635986
+962036104	PNC	PNC1	PNC1	1	12.33333333	Male	Other	Hispanic or Latino	19.83	Ambidextrous	5th Grade	Complete tertiary		-0.7574216974167813
+1890822437	PNC	PNC1	PNC1	1	20.5	Female	Black	not Hispanic or Latino	19.46	Right	12th Grade	Complete primary	Complete primary	0.13106002761874985
+3131141015	PNC	PNC1	PNC1	1	22.25	Male	White	not Hispanic or Latino	19.93	Right	Some College	Complete primary	Complete primary	0.48283203546347414
+2319274290	PNC	PNC1	PNC1	1	14.16666667	Male	Black	not Hispanic or Latino	24.63	Right	8th Grade	Complete primary	Complete primary	-0.5490252887999256
+3234586495	PNC	PNC1	PNC1	1	8.166666667	Female	White	not Hispanic or Latino	15.69	Right	1st Grade	Complete tertiary	Complete tertiary	-1.0927677641105125
+2175309663	PNC	PNC1	PNC1	1	15.91666667	Male	White	not Hispanic or Latino		Right	9th Grade	Complete secondary	Complete primary	-0.37512859132100074
+817266153	PNC	PNC1	PNC1	1	22.91666667	Female	Black	not Hispanic or Latino		Right	12th Grade	Complete primary	No/incomplete primary	0.7777364997865304
+1991567562	PNC	PNC1	PNC1	1	12.0	Female	White	not Hispanic or Latino		Right	6th Grade	Complete tertiary	Complete tertiary	-0.9921710489297868
+3840869169	PNC	PNC1	PNC1	1	20.0	Male	Black	not Hispanic or Latino		Right	12th Grade	Complete secondary	Complete primary	0.1598150128589944
+3445089839	PNC	PNC1	PNC1	1	15.33333333	Female	Other	Hispanic or Latino	32.38	Right	7th Grade	Complete primary		-0.4632753900685441
+1586254402	PNC	PNC1	PNC1	1	17.91666667	Male	Black	not Hispanic or Latino	21.02	Right	10th Grade	Complete tertiary	Complete primary	-0.13053044326185048
+749654008	PNC	PNC1	PNC1	1	16.58333333	Female	Black	not Hispanic or Latino		Left	9th Grade	Complete tertiary	Complete primary	-0.3731422142783495
+2026754591	PNC	PNC1	PNC1	1	17.58333333	Female	White	not Hispanic or Latino	16.94	Left	10th Grade	Complete primary	Complete tertiary	-0.45009673314540355
+1440643572	PNC	PNC1	PNC1	1	11.41666667	Male	White	not Hispanic or Latino	16.01	Right	4th Grade	Complete primary	Complete primary	-0.513338187682055
+872953625	PNC	PNC1	PNC1	1	10.0	Male	Black	not Hispanic or Latino	16.21	Left	4th Grade	Complete primary	No/incomplete primary	-0.4003228455854743
+1649551035	PNC	PNC1	PNC1	1	9.916666667	Male	Black	not Hispanic or Latino		Right	3rd Grade	Complete tertiary	Complete tertiary	-0.6654445026329888
+3459140306	PNC	PNC1	PNC1	1	12.16666667	Male	White	not Hispanic or Latino	30.37	Right	4th Grade	Complete primary	Complete secondary	-0.5123534085850612
+316324995	PNC	PNC1	PNC1	1	10.16666667	Female	Black	not Hispanic or Latino	19.4	Right	2nd Grade	Complete primary	Complete primary	-0.3967815993495436
+2715820110	PNC	PNC1	PNC1	1	10.91666667	Male	Black	not Hispanic or Latino	17.13	Right	4th Grade	Complete secondary	Complete primary	-0.5568478543967006
+845422206	PNC	PNC1	PNC1	1	17.16666667	Male	Black	not Hispanic or Latino		Right	10th Grade	Complete tertiary	Complete tertiary	-0.5008245833702434
+646773252	PNC	PNC1	PNC1	1	15.75	Female	White	not Hispanic or Latino	18.58	Ambidextrous	6th Grade	Complete primary	Complete primary	-0.1583274364755185
+1494969836	PNC	PNC1	PNC1	1	16.16666667	Male	White	not Hispanic or Latino	20.36	Right	9th Grade	Complete tertiary	Complete tertiary	-0.5881670615189257
+2323472643	PNC	PNC1	PNC1	1	11.58333333	Male	Black	Hispanic or Latino	35.13	Left	3rd Grade	Complete secondary	Complete secondary	-0.535784697027669
+1150278162	PNC	PNC1	PNC1	1	18.58333333	Female	Black	not Hispanic or Latino	22.31	Right	12th Grade	Complete primary	Complete primary	-0.1159710681470838
+2894537898	PNC	PNC1	PNC1	1	17.33333333	Female	White	not Hispanic or Latino	23.43	Right	10th Grade	Complete tertiary	Complete tertiary	-0.5965359770915014
+3357695482	PNC	PNC1	PNC1	1	20.0	Female	Black	not Hispanic or Latino		Right	11th Grade	Complete primary	Complete primary	0.10799040996584014
+3498010347	PNC	PNC1	PNC1	1	17.91666667	Female	Black	not Hispanic or Latino	19.2	Left	12th Grade	Complete primary	Complete primary	-0.14271728118728422
+261887422	PNC	PNC1	PNC1	1	16.58333333	Male	Black	not Hispanic or Latino	17.93	Left	10th Grade	Complete secondary	Complete primary	-0.2958985320173778
+4184549693	PNC	PNC1	PNC1	1	11.0	Male	Black	not Hispanic or Latino	22.93	Right	4th Grade	Complete primary	Complete primary	-0.37467036197382764
+3112586807	PNC	PNC1	PNC1	1	11.66666667	Male	White	not Hispanic or Latino	19.83	Right	5th Grade	Complete tertiary	Complete tertiary	-0.9329906011919753
+299894413	PNC	PNC1	PNC1	1	12.58333333	Male	White	not Hispanic or Latino	14.13	Right	5th Grade	Complete tertiary	Complete tertiary	-0.8622568106504824
+2539774514	PNC	PNC1	PNC1	1	16.08333333	Male	White	not Hispanic or Latino	25.72	Ambidextrous	10th Grade	Complete secondary	Complete tertiary	-0.577898538197006
+1547584703	PNC	PNC1	PNC1	1	17.33333333	Male	Black	not Hispanic or Latino	23.61	Left	9th Grade	Complete primary	Complete primary	-0.10152917228373165
+624155263	PNC	PNC1	PNC1	1	19.75	Male	Black	not Hispanic or Latino		Right	12th Grade	Complete primary		0.2192335683389744
+1697816442	PNC	PNC1	PNC1	1	13.08333333	Male	White	not Hispanic or Latino	21.72	Right	6th Grade	Complete secondary	Complete primary	-0.4653015728401018
+4113417726	PNC	PNC1	PNC1	1	11.08333333	Male	White	not Hispanic or Latino		Right	5th Grade	Complete tertiary	Complete tertiary	-0.8831183626506528
+919679140	PNC	PNC1	PNC1	1	14.08333333	Male	Black	not Hispanic or Latino	20.04	Ambidextrous	7th Grade	Complete primary	Complete primary	-0.5132459318828887
+2423596559	PNC	PNC1	PNC1	1	19.0	Female	Black	not Hispanic or Latino	29.4	Right	10th Grade	Complete primary	Complete primary	-0.17925942165909126
+3620165734	PNC	PNC1	PNC1	1	14.0	Male	Black	not Hispanic or Latino	28.34	Right	7th Grade	Complete primary	Complete primary	-0.34877314423060407
+4190603704	PNC	PNC1	PNC1	1	19.66666667	Female	Black	not Hispanic or Latino		Right	11th Grade	Complete primary	Complete primary	-0.09390057347006053
+1910420386	PNC	PNC1	PNC1	1	12.5	Male	Black	not Hispanic or Latino	19.18	Right	6th Grade	Complete primary	Complete secondary	-0.6403288805339029
+3993637691	PNC	PNC1	PNC1	1	17.0	Male	Black	not Hispanic or Latino	21.28	Right	9th Grade	Complete secondary	Complete primary	-0.17217378309521297
+2726043986	PNC	PNC1	PNC1	1	9.0	Female	Black	not Hispanic or Latino	16.02	Right	2nd Grade	Complete primary		-0.6345667275074526
+731048453	PNC	PNC1	PNC1	1	12.16666667	Female	White	not Hispanic or Latino		Right	6th Grade	Complete secondary	Complete secondary	-0.6879189084051588
